@@ -1,7 +1,7 @@
 # Message Queue Services Socket C++ programming
 
 This is the Message Queue Backend Program in C++ Socket programing.
-- Function List:
+- Function List: 
   > Host Socket Connection
   > Client Socket Connection
   > Logging
